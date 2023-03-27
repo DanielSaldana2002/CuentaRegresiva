@@ -64,7 +64,7 @@ h2{
         background-image: linear-gradient(to right, rgb(148, 148, 74), white);
         background-clip: text;
         color: transparent;
-        font-size: 105px;
+        font-size: 100px;
         font-weight: 300;
         -webkit-background-clip: text;
         text-shadow: 1px 1px 10px rgba(255, 255, 255, 0.678);
@@ -75,7 +75,7 @@ h2{
     #title-galeras-galeon{
         position: absolute;
         margin-right: 40em;
-        margin-bottom: 47.5em;
+        margin-bottom: 40.5em;
         padding-left: 2em;
         color: white;
     }
